@@ -18,4 +18,4 @@ Complexidade: :star:
 Popularidade: :star: :star: :star:	
 
 ## Link do vídeo
-Link do vídeo: <https://drive.google.com/drive/folders/1iImlzagtb9v01XNrc6KGg3l6QH-_4Ce0>
+Link do vídeo: <https://drive.google.com/file/d/1zNSvXTiTLkIX5p-qZGo85_UrxtuGU3Oy/view>
