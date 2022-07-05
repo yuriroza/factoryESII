@@ -16,3 +16,5 @@ Como fonte de pesquisa foi usado o site [Refactoring Guru](https://refactoring.g
 Esse site classifica o Factory Method dessa forma (de 0 a 3):  
 Complexidade: :star:  
 Popularidade: :star: :star: :star:	
+
+## Link do vídeo
